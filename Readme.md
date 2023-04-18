@@ -1,8 +1,8 @@
-# RxWe10
+# Simple Win10 theme for fcitx5
 
-## AD TIME!
+## ARCHIVED, TRY THIS ONE
 
-you can try this for better experience!
+This skin looks not so well now... you can try this for better experience!
 
 > https://github.com/Reverier-Xu/FluentDark-fcitx5
 
